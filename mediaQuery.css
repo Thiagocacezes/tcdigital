@@ -1,4 +1,4 @@
-@media (max-width: 990px) {
+@media (max-width: 1090px) {
     #imgul1 {
         width: 350px;
         height: 350px;
@@ -100,7 +100,7 @@
     }
 
     .home {
-        background: url(assets/TCDigita2.jpg) no-repeat center center;
+        background: url(assets/t3.jpg) no-repeat center center;
         background-size: 100%, 100%;
 
     }
@@ -143,7 +143,7 @@
     }
 
     .home {
-        background: url(assets/TCDigita2.jpg) no-repeat center center;
+        background: url(assets/t3.jpg) no-repeat center center;
         background-size: 100%, 100%;
 
     }
@@ -192,7 +192,7 @@
     }
 
     .home {
-        background: url(assets/TCDigita2.jpg) no-repeat center center;
+        background: url(assets/t3.jpg) no-repeat center center;
         background-size: 100%, 100%;
 
     }
