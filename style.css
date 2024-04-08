@@ -136,18 +136,18 @@ html {
 
 .home .home-content a {
     display: inline-block;
-    background: #00804b;
-    color: #fff;
+    background: transparent;
+    color: #bcf9df;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid #00804b;
+    border: 2px solid #bcf9df;
 }
 
 .home .home-content a:hover {
     color: #00804b;
-    background: none;
+    background: transparent;
 }
 
 
