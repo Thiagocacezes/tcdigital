@@ -36,7 +36,7 @@ html {
     border-radius: 15px;
 }
 
-/*  navbar   inicio*/
+/*  navbar*/
 .navbar {
     position: fixed;
     width: 100%;
@@ -93,7 +93,7 @@ html {
     color: #fff;
 }
 
-/*  Home   inicio  */
+/*  Home*/
 
 .home {
     display: flex;
@@ -152,7 +152,7 @@ html {
 
 
 
-/*  Menu  Mobile  */
+/*  Menu-------------------------------------------------Mobile  */
 .menu-btn {
     color: #fff;
     font-size: 26px;
@@ -186,7 +186,7 @@ html {
 
 }
 
-/*  todos os codigos similares  */
+/*  todos os codigos --------------------------------------------parentes-------------------------------------------  */
 section {
     padding: 100px 0;
 }
@@ -242,7 +242,7 @@ footer {
     justify-content: space-between;
 }
 
-/*  sessão sobre  */
+/*  sobre -------------------------------------------------------------------------------------------- */
 
 .about .title::after {
     content: "Empresa";
@@ -295,7 +295,7 @@ footer {
     border-radius: 6px;
 }
 
-/*  sessão serviços */
+/*  -------------------------------------------------------------------------------------serviços */
 .services,
 .teams {
     background: #111;
@@ -351,7 +351,7 @@ footer {
     margin: 10px 0 7px 0;
 }
 
-/*  sessão especialidades  */
+/*  -------------------------------------------------------- especialidades  */
 .skills .title::after {
     content: "Utilizadas";
 }
@@ -439,7 +439,7 @@ footer {
     width: 75%;
 }
 
-/*  sessão equipe  */
+/*  ----------------------------------------------------------------------------- equipe  */
 .teams .title::after {
     content: "Certificações";
 }
@@ -511,7 +511,7 @@ footer {
     background: #00804b !important;
 }
 
-/*  sessão Contato  */
+/*  ---------------------------------------------------------------------------------- Contato  */
 .contact .title::after {
     content: "Conecte-se";
 }
@@ -634,7 +634,7 @@ footer {
 }
 
 
-/*  sessão footer  */
+/* -------------------------------------------------------------------------------------------- footer  */
 footer {
     background: #111;
     padding: 20px 23px;
