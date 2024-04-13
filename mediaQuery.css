@@ -55,9 +55,9 @@
         padding: 10px 30px;
     }
     .home .home-content a {
-        color: #bcf9df;
+        color: #7fa6a0;
         background: transparent;
-        border: 2px solid #bcf9df;
+        border: 2px solid #7fa6a0;
     }
     .about .about-content .column {
         width: 50%;
@@ -131,6 +131,9 @@
 
     #porra {
         margin-top: 250px;
+        color: #7fa6a0;
+        background: transparent;
+        border: 2px solid #7fa6a0;
     }
 
     #imgul {
@@ -174,6 +177,9 @@
 
     #porra {
         margin-top: 250px;
+        color: #7fa6a0;
+        background: transparent;
+        border: 2px solid #7fa6a0;
     }
 
     #imgul {
@@ -223,6 +229,9 @@
 
     #porra {
         margin-top: 250px;
+        color: rgb(255, 255, 255);
+        background: transparent;
+        border: 2px solid #ffffff;
     }
 
     #imgul {

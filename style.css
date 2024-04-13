@@ -137,12 +137,12 @@ html {
 .home .home-content a {
     display: inline-block;
     background: transparent;
-    color: #bcf9df;
+    color: #7fa6a0;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid #bcf9df;
+    border: 2px solid #7fa6a0;
 }
 
 .home .home-content a:hover {
